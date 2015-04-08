@@ -8,4 +8,4 @@ branch Edit 03
 Sua bug 01
 Tiep tuc sua bug 01
 Bug 01: fixed
-Bug 01: re-
+Bug 01: re-open
