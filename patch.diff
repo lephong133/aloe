@@ -1,0 +1,25 @@
+From 361e1c76e37d49d34855b08e334cd99a28bd8550 Mon Sep 17 00:00:00 2001
+From: unknown <lhphong@isb-413.isb-vietnam.com>
+Date: Wed, 8 Apr 2015 11:02:22 +0700
+Subject: [PATCH] bug 01 is fixed
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index fcb7d44..0988827 100644
+--- a/README.md
++++ b/README.md
+@@ -6,4 +6,5 @@ branch Edit 02
+ branch Edit 03
+ 
+ Sua bug 01
+-Tiep tuc sua bug 01
+\ No newline at end of file
++Tiep tuc sua bug 01
++Bug 01: fixed
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+

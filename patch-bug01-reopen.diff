@@ -1,0 +1,25 @@
+From a426a23bb056985a55fdeaaa0faaa2228ccba482 Mon Sep 17 00:00:00 2001
+From: unknown <lhphong@isb-413.isb-vietnam.com>
+Date: Wed, 8 Apr 2015 11:08:12 +0700
+Subject: [PATCH] bug 01 is re-open
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 0988827..4133ce0 100644
+--- a/README.md
++++ b/README.md
+@@ -7,4 +7,5 @@ branch Edit 03
+ 
+ Sua bug 01
+ Tiep tuc sua bug 01
+-Bug 01: fixed
+\ No newline at end of file
++Bug 01: fixed
++Bug 01: re-open
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
